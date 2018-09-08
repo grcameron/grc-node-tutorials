@@ -1,0 +1,22 @@
+{
+  "name": "node-server",
+  "version": "0.1.0",
+  "description": "tutorial node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grcameron/grc-node-tutorials.git"
+  },
+  "author": "gcameron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grcameron/grc-node-tutorials/issues"
+  },
+  "homepage": "https://github.com/grcameron/grc-node-tutorials#readme",
+  "dependencies": {
+    "colors": "^1.3.2"
+  }
+}
